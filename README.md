@@ -6,6 +6,7 @@ CryptoComms is a python script that uses the PyCrypto Library and a set of other
 - [ ] Introduce key verification to prevent MitM attacks
 - [ ] Use RSA for symmetric key exchange only, use AES-128 in GCM or CBC for data encryption
 - [ ] Remove the ```eval``` and replace it with something secure
+- [ ] Add full UTF-8 support to the interface and the messages
 <br/>
 <h2>Disclaimer</h2>
 <strong>Currently this software is marked as <u>PROOF OF CONCEPT</u>. It may <u>NEVER</u> be used in a production enviroment or for any confidential communication. Even after the completion of the To-Do list, it has to be audited and tested before this state can change.</strong>
