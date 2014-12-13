@@ -1,4 +1,4 @@
-#CryptoComms v1.0
+#CryptoComms v0.7
 #By DaKnOb
 
 import os
